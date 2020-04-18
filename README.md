@@ -27,7 +27,7 @@ All this information is provided by the Arch forums and is currently untested.
 3. Click on the "Download as a zip" Option.
 3. Extract the zip file with like 7zip.
 4. Run this command in Wine "wine cmd".
-5. Install a Windows commad prompt (Something like dos prompt)
-6. Then run this command ".cmd scripts"
+5. Install a Windows commad prompt (Something like dos prompt).
+6. Then run this command ".cmd scripts".
 7. Follow the instructions in the program.
-8. Enjoy!
+8. Enjoy!.
