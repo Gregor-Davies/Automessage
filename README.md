@@ -18,3 +18,5 @@ How to install (Windows):
  5 . Follow the instructions in the program
  6. Enjoy!
  
+How to install (Linux):
+All this information is provided by the Arch forums and is currently untested.
