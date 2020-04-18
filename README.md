@@ -30,7 +30,7 @@ All this information is provided by the Arch forums and is currently untested.
 5. Install a Windows commad prompt (Something like dos prompt).
 6. Then run this command ".cmd scripts".
 7. Follow the instructions in the program.
-8. Enjoy!.
+8. Enjoy!
 
 (Linux installtion guide was kindly provided by the Arch forums: https://bbs.archlinux.org/viewtopic.php?id=39641)
 
