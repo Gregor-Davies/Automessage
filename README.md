@@ -31,3 +31,7 @@ All this information is provided by the Arch forums and is currently untested.
 6. Then run this command ".cmd scripts".
 7. Follow the instructions in the program.
 8. Enjoy!.
+
+(Linux installtion guide was kindly provided by the Arch forums: https://bbs.archlinux.org/viewtopic.php?id=39641)
+
+Do you enjoy my work and want to buy me a coffee? Support me with the support button!
