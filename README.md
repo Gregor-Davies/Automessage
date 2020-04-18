@@ -6,3 +6,5 @@ This program will only work on windows/linux (With wine), In the future I am pla
 
 Usage:
 This program is really useful for games like Runescape or forums where you want to advertise for instance every 20 minutes.
+
+Why This program?:
