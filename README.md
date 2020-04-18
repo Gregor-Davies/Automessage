@@ -19,4 +19,15 @@ How to install (Windows):
  6. Enjoy!
  
 How to install (Linux):
+
 All this information is provided by the Arch forums and is currently untested.
+
+1. Make sure you have wine installed
+2. Click on the button on the right hand corner "Clone or download".
+3. Click on the "Download as a zip" Option.
+3. Extract the zip file with like 7zip.
+4. Run this command in Wine "wine cmd".
+5. Install a Windows commad prompt (Something like dos prompt)
+6. Then run this command ".cmd scripts"
+7. Follow the instructions in the program.
+8. Enjoy!
